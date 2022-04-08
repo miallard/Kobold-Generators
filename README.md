@@ -2,7 +2,7 @@
 
 - This program is designed to generate simple characters with:
     - Names (Randomised)
-    - Gender (Male/Female)
+    - Gender (Male/Female/NB)
     - Appearance (Colour + Style of Scales)
     - Quirks (Chosen from a list)
     
